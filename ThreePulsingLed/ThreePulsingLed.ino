@@ -1,6 +1,8 @@
 /*
-  ThreeFadingLed
-  3 led pulsing in turn, repeatedly.
+An Arduino sketch for three LED pulsing in turn, repeatedly. 
+A progression from [Arduino's blinking LED example](http://arduino.cc/en/Tutorial/Blink?from=Tutorial.BlinkingLED):
+
+Author: Stephanie Pau @citizeninventor  
 */
 
 int ledPins[] = {9,10,11};
